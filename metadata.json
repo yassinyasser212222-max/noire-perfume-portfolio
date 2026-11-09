@@ -1,0 +1,8 @@
+{
+  "name": "NOIRÉ — Luxury Perfume Advertising Portfolio",
+  "description": "A sophisticated luxury editorial portfolio for NOIRÉ, an independent design studio creating modern visual concepts for luxury fragrance brands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
